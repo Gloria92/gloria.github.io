@@ -1,17 +1,17 @@
-title: Ezora Theme!
-email: git@ezrasavard.com
-greeting: Welcome to the Ezora Sample Site
+title: Gloria Zhang
+email: gloriazhang920912@gmail.com
+greeting: Hi! I am Gloria
 description: > # this means to ignore newlines until another tag
-    Ezora is a responsive Jekyll theme with a clean single column layout, nifty text overlays for images and a mobile friendly navigation bar.
-github:  ezrasavard
-linkedin: ezrasavard
+   Gloria is a motivated person who is always willing to learn.
+github:  Gloria92
+linkedin: Hui Zhang
 favicon: favicon.png
 
 # Build settings
 paginate: 3
 baseurl: "" # the subpath of your site, e.g. /blog/
 #baseurl: ""
-url: "http://www.ezrasavard.com" # the base hostname & protocol for your site
+url: "http://www.gloria92.github.io" # the base hostname & protocol for your site
 highlights: pygments
 permalink: posts/:title/
 include: ["_pages"]
@@ -35,7 +35,7 @@ defaults:
             path: ""
             type: "posts"
         values:
-            author: "Ezra Savard"
+            author: "Gloria Zhang"
             cover: "/media/header.jpg"
             layout: "post"
     -
@@ -43,6 +43,6 @@ defaults:
             path: ""
             type: "pages"
         values:
-            author: "Ezra Savard"
+            author: "Gloria Zhang"
             cover: "/media/header.jpg"
             layout: "default"
